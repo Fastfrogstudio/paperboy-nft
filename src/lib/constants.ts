@@ -13,3 +13,4 @@ export const NETWORK = (process.env.NEXT_PUBLIC_NETWORK || "devnet") as
   | "mainnet-beta";
 export const CANDY_MACHINE_ID = process.env.NEXT_PUBLIC_CANDY_MACHINE_ID || "";
 export const COLLECTION_ID = process.env.NEXT_PUBLIC_COLLECTION_ID || "";
+export const NHA_DIFFICULTY = Number(process.env.NHA_DIFFICULTY || "4");

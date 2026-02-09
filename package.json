@@ -27,6 +27,7 @@
     "@solana/web3.js": "^1.95.0",
     "dotenv": "^16.4.0",
     "next": "^14.2.0",
+    "nohumanallowed": "^1.2.2",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
     "react-hot-toast": "^2.4.1",
